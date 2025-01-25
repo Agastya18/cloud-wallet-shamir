@@ -2,6 +2,7 @@
 
 ## About
 Ethereum-Cloud-Wallet is a decentralized application (dApp) that allows users to securely store, manage, and interact with their Ethereum assets. The wallet leverages cloud storage for backup and recovery, ensuring that users can access their funds from anywhere.
+![Uploading Screenshot 2025-01-25 at 11.09.54 PM.png…]()
 
 ## Features
 - **Secure Storage**: Private keys are encrypted and stored securely.
